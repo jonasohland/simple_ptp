@@ -26,5 +26,10 @@
     "blessed": "^0.1.81",
     "commander": "^5.1.0",
     "fixed-width-string": "^2.0.0"
-  }
+  },
+  "files": [
+    "bin/**/*",
+    "dist/**/*",
+    "src/**/*"
+  ]
 }
